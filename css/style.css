@@ -44,14 +44,19 @@ nav .right-nav img {
 }
 
 nav .left-nav {
-    width: 50%;
+    width: 30%;
 }
 
 nav .left-nav ul {
     display: flex;
     justify-content: space-around;
 }
-
+nav .left-nav li{
+    list-style: none;
+}
+nav .left-nav li a:hover{
+    color: blue;
+}
 .main {
     color: #fff;
 
@@ -222,4 +227,7 @@ footer {
         margin-top: 2em;
         padding: 2em;
     }
+    nav .left-nav {
+    width: 50%;
+}
 }
