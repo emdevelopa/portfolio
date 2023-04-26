@@ -172,7 +172,7 @@ nav .left-nav li a:hover{
 }
 
 .projectContainer img {
-    border-radius: 5    px;
+    border-radius: 5px;
     width: 22em;
     height: 22em;
 }
@@ -233,5 +233,8 @@ footer {
     }
     nav .left-nav {
     width: 50%;
+}
+.projectContainer img {
+    height: 18em;
 }
 }
