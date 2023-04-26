@@ -53,6 +53,10 @@ nav .left-nav ul {
 }
 nav .left-nav li{
     list-style: none;
+   
+}
+nav .left-nav li a{
+    color: #fff;
 }
 nav .left-nav li a:hover{
     color: blue;
